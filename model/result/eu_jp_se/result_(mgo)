@@ -1,0 +1,72 @@
+[Command: python -u /Users/kengorou/Documents/卒論&研究室関連/graduate_thesis_ozawa/case_study/infinit_model.py]
+
+lngship_total_ton*km:  0.0 [隻・km]
+hfoship_total_ton*km:  0.0 [隻・km]
+mgoship_total_ton*km:  266600.0 [隻・km]
+
+
+0(AE)_AE_to_EU_car_am_out = 29.0
+0(AE)_AE_to_EU_mgo_out = 1982.4
+0(AE)_AE_to_EU_ordship_car_am_out = 3.0
+0(AE)_EU_to_AE_ordship_car_am_in = 3.0
+0(AU)_AU_to_JP_mgo_out = 604.8
+0(AU)_AU_to_JP_ordship_car_jp_out = 1.0
+0(AU)_JP_to_AU_car_jp_in = 10.0
+0(AU)_JP_to_AU_ordship_car_jp_in = 1.0
+0(AW)_AW_to_JP_car_am_out = 20.0
+0(AW)_AW_to_JP_mgo_out = 5241.6
+0(AW)_AW_to_JP_ordship_car_am_out = 2.0
+0(AW)_AW_to_JP_ordship_car_jp_out = 4.0
+0(AW)_JP_to_AW_car_jp_in = 40.0
+0(AW)_JP_to_AW_ordship_car_am_in = 2.0
+0(AW)_JP_to_AW_ordship_car_jp_in = 4.0
+0(EU)_AE_to_EU_car_am_in = 29.0
+0(EU)_AE_to_EU_ordship_car_am_in = 3.0
+0(EU)_EU_to_AE_mgo_out = 1982.4
+0(EU)_EU_to_AE_ordship_car_am_out = 3.0
+0(EU)_EU_to_ME_car_am_out = 8.0
+0(EU)_EU_to_ME_mgo_out = 560.0
+0(EU)_EU_to_ME_ordship_car_am_out = 1.0
+0(EU)_EU_to_SE_mgo_out = 2240.0
+0(EU)_EU_to_SE_ordship_car_jp_out = 2.0
+0(EU)_ME_to_EU_ordship_car_am_in = 1.0
+0(EU)_SE_to_EU_car_jp_in = 17.0
+0(EU)_SE_to_EU_ordship_car_jp_in = 2.0
+0(JP)_AU_to_JP_ordship_car_jp_in = 1.0
+0(JP)_AW_to_JP_car_am_in = 20.0
+0(JP)_AW_to_JP_ordship_car_am_in = 2.0
+0(JP)_AW_to_JP_ordship_car_jp_in = 4.0
+0(JP)_JP_to_AU_car_jp_out = 10.0
+0(JP)_JP_to_AU_mgo_out = 604.8
+0(JP)_JP_to_AU_ordship_car_jp_out = 1.0
+0(JP)_JP_to_AW_car_jp_out = 40.0
+0(JP)_JP_to_AW_mgo_out = 5241.6
+0(JP)_JP_to_AW_ordship_car_am_out = 2.0
+0(JP)_JP_to_AW_ordship_car_jp_out = 4.0
+0(JP)_JP_to_SE_car_jp_out = 50.0
+0(JP)_JP_to_SE_mgo_out = 2912.0
+0(JP)_JP_to_SE_ordship_car_jp_out = 5.0
+0(JP)_SE_to_JP_ordship_car_jp_in = 5.0
+0(ME)_EU_to_ME_car_am_in = 8.0
+0(ME)_EU_to_ME_ordship_car_am_in = 1.0
+0(ME)_ME_to_EU_mgo_out = 560.0
+0(ME)_ME_to_EU_ordship_car_am_out = 1.0
+0(ME)_ME_to_SE_mgo_out = 1388.8
+0(ME)_ME_to_SE_ordship_car_jp_out = 2.0
+0(ME)_SE_to_ME_car_jp_in = 20.0
+0(ME)_SE_to_ME_ordship_car_jp_in = 2.0
+0(SE)_EU_to_SE_ordship_car_jp_in = 2.0
+0(SE)_JP_to_SE_car_jp_in = 50.0
+0(SE)_JP_to_SE_ordship_car_jp_in = 5.0
+0(SE)_ME_to_SE_ordship_car_jp_in = 2.0
+0(SE)_SE_to_EU_car_jp_out = 17.0
+0(SE)_SE_to_EU_mgo_out = 2240.0
+0(SE)_SE_to_EU_ordship_car_jp_out = 2.0
+0(SE)_SE_to_JP_mgo_out = 2912.0
+0(SE)_SE_to_JP_ordship_car_jp_out = 5.0
+0(SE)_SE_to_ME_car_jp_out = 20.0
+0(SE)_SE_to_ME_mgo_out = 1388.8
+0(SE)_SE_to_ME_ordship_car_jp_out = 2.0
+Status: Optimal opt_cost:  14017920.0 CO2_emission:  0
+
+[Finished in 5.584s]

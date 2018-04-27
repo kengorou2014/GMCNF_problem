@@ -1,0 +1,64 @@
+LNG供給インフラ:
+EU,JP
+
+使用燃料：
+mgo
+
+Status: Optimal opt_cost:  14017920.0 CO2_emission:  0
+lngship_total_ton*km:  0.0 [隻・km]
+hfoship_total_ton*km:  0.0 [隻・km]
+mgoship_total_ton*km:  266600.0 [隻・km]
+
+
+使用燃料：
+lng
+
+Status: Infeasible opt_cost:  33860972879.7 CO2_emission:  0
+lngship_total_ton*km:  1434265770.09 [隻・km]
+hfoship_total_ton*km:  -1.36450399999e-23 [隻・km]
+mgoship_total_ton*km:  0.16000007904 [隻・km]
+
+
+使用燃料：
+hfo
+
+Status: Optimal opt_cost:  10826564.0 CO2_emission:  0
+lngship_total_ton*km:  0.0 [隻・km]
+hfoship_total_ton*km:  266600.0 [隻・km]
+mgoship_total_ton*km:  0.0 [隻・km]
+
+
+使用燃料：
+hfo,mgo
+
+Status: Optimal opt_cost:  10826564.0 CO2_emission:  0
+lngship_total_ton*km:  0.0 [隻・km]
+hfoship_total_ton*km:  266600.0 [隻・km]
+mgoship_total_ton*km:  0.0 [隻・km]
+
+
+使用燃料：
+lng,mgo
+
+Status: Optimal opt_cost:  8836510.5 CO2_emission:  0
+lngship_total_ton*km:  186100.0 [隻・km]
+hfoship_total_ton*km:  0.0 [隻・km]
+mgoship_total_ton*km:  93600.0 [隻・km]
+
+
+使用燃料：
+lng,hfo
+
+Status: Optimal opt_cost:  7600054.5 CO2_emission:  0
+lngship_total_ton*km:  186100.0 [隻・km]
+hfoship_total_ton*km:  93600.0 [隻・km]
+mgoship_total_ton*km:  0.0 [隻・km]
+
+
+使用燃料：
+lng,hfo,mgo
+
+Status: Optimal opt_cost:  7600054.5 CO2_emission:  0
+gship_total_ton*km:  186100.0 [隻・km]
+hfoship_total_ton*km:  93600.0 [隻・km]
+mgoship_total_ton*km:  0.0 [隻・km]
